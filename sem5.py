@@ -1,4 +1,5 @@
-import random
+#задача 1. Создайте программу для игры с конфетами человек против человека.
+ import random
 from random import randint, choice
  
 print(
